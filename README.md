@@ -5,6 +5,8 @@ This Max patch provides 3 Sub-patchers which will route output data from a gamep
 
 The provided patchers will handle either both controllers, or each individually. These can be copy and pasted into any other patch. 
 
+This patch was made using Max 8.6.5
+
 
 ## Message Mapping
 Below are the messages given by the gamepad object and their corresponding input buttons
