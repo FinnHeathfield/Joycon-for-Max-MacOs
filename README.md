@@ -55,4 +55,5 @@ Data types are indicated after the message.
 |button_paddle1 (1/0)|(R) SR Button|
 |---|---|
 
-
+## Accelerometer use
+Currently, a limitation in MacOs means that only that data for the Accelerometer and Gyroscopes from one controller are useable at once (when both are connected its usually the right). See [this](https://cycling74.com/forums/using-two-joycons-with-gamepad) discussion on the Cycling 74 forums RE this limitation. 
